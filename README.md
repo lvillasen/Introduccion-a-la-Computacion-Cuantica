@@ -6,20 +6,20 @@ Este reposiorio contiene tres tálleres impartidos paoutr en el Centro Interdisc
 El Contenido es el siguiente:
 
                        Primer Taller
-1. Introducción a la Mecánica Cuántica
-2. Introducción a la Computación Cuántica
-3. Compuertas Cuánticas
-Parte Práctica
-4. Introducción a Python y a la Programación Cuántica con Qiskit
+    1. Introducción a la Mecánica Cuántica
+    2. Introducción a la Computación Cuántica
+    3. Compuertas Cuánticas
+                       Parte Práctica
+    4. Introducción a Python y a la Programación Cuántica con Qiskit
                 
 
                        Segundo Taller
-5. Introducción a Algoritmos Cuánticos y Uso en una Computadora Cuántica Real
+    5. Introducción a Algoritmos Cuánticos y Uso en una Computadora Cuántica Real
                    
 
                        Tercer Taller
-6. Introducción a Machine Learning Clásica
-7. Introducción a Machine Learning Cuántica
+    6. Introducción a Machine Learning Clásica
+    7. Introducción a Machine Learning Cuántica
 
 
 ## Uso 
