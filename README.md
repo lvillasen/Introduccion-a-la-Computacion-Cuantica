@@ -25,5 +25,5 @@ El Contenido es el siguiente:
 ## Uso 
 - Clonar el repositorio con el comando *git clone https://github.com/lvillasen/Introduccion-a-la-Computacion-Cuantica.git*
 - Copiar el cuaderno de jupyter a Google Drive
-- Entrar a la página de Google Drive con un explorador y abrir el archivo en Googla Colab
+- Entrar a la página de Google Drive con un explorador y abrir el archivo en Google Colab
 - 
