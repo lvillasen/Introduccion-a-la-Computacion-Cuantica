@@ -21,7 +21,7 @@ El Contenido es el siguiente:
     6. Introducción a Machine Learning Clásica
     7. Introducción a Machine Learning Cuántica
 
-### *El video del primer taller se puede ver en* https://www.facebook.com/CiiecBuap/videos/698380658240902
+### El video del primer taller se puede ver en https://www.facebook.com/CiiecBuap/videos/698380658240902
 
 ## Uso 
 - Clonar el repositorio con el comando *git clone https://github.com/lvillasen/Introduccion-a-la-Computacion-Cuantica.git*
