@@ -23,7 +23,8 @@ El Contenido es el siguiente:
 
 ### El video del primer taller se puede ver en https://www.facebook.com/CiiecBuap/videos/698380658240902
 
-## Uso 
+## Uso
+- Este repositorio contiene el archivo PDF de la presentación del primer taller
 - Clonar el repositorio con el comando *git clone https://github.com/lvillasen/Introduccion-a-la-Computacion-Cuantica.git*
-- Copiar el cuaderno de jupyter a Google Drive
+- Para la parte práctica copiar el cuaderno de jupyter a Google Drive
 - Entrar a la página de Google Drive con un explorador y abrir el archivo en Google Colab
