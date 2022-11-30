@@ -1,7 +1,7 @@
 # Introducción a la Computación Cuántica
 Se presenta una introducción práctica a la Computación Cuántica usando el SDK Qiskit desarrollado por IBM en Python. 
 
-Este reposiorio contiene tres tálleres impartidos paoutr en el Centro Interdisciplinario de Investigación y Enseñanza de la Ciencia (CIIEC) de la Benemérita Universidad Autónoma de Puebla, en Puebla México.
+Este reposiorio contiene tres tálleres impartidos en el Centro Interdisciplinario de Investigación y Enseñanza de la Ciencia (CIIEC) de la Benemérita Universidad Autónoma de Puebla, en Puebla México.
 
 El Contenido es el siguiente:
 
@@ -26,4 +26,3 @@ El Contenido es el siguiente:
 - Clonar el repositorio con el comando *git clone https://github.com/lvillasen/Introduccion-a-la-Computacion-Cuantica.git*
 - Copiar el cuaderno de jupyter a Google Drive
 - Entrar a la página de Google Drive con un explorador y abrir el archivo en Google Colab
-- 
