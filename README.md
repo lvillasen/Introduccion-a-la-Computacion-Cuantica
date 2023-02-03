@@ -6,7 +6,7 @@ Este reposiorio contiene tres tálleres impartidos en el Centro Interdisciplinar
 El Contenido es el siguiente:
 ```   
 
-                       Primer Taller
+                       **Primer Taller**
   1. Introducción a la Mecánica Cuántica
   1.1 Superposición de Estados Cuánticos
   1.2 Entrelazamiento Cuántico
@@ -33,8 +33,10 @@ El Contenido es el siguiente:
   Algoritmos Cuánticos
   Tercer Taller
   Machine Learning con Computación Cuántica
+```  
+### El video del primer taller se puede ver en https://www.facebook.com/CiiecBuap/videos/698380658240902
 ```   
-                      Segundo Taller
+                      **Segundo Taller**
   6. Desigualdad de Bell
   7. Repaso del Primer Taller
   8. Uso de una Computadora Cuántica Real de IBM Quantum Experience
@@ -52,11 +54,11 @@ El Contenido es el siguiente:
   10.3.2 Factorización del Número 21
   11. Código Superdenso
   12. Criptografía Cuántica. Protocolo de Distribución de Clave BB84
-
-### El video del primer taller se puede ver en https://www.facebook.com/CiiecBuap/videos/698380658240902
+```   
+### El video del segundo taller se puede ver en https://www.facebook.com/CiiecBuap/videos/584485863150717
 
 ## Uso
-- Este repositorio contiene el archivo PDF de la presentación del primer taller
+- Este repositorio contiene el archivo PDF de las presentaciones de los dos talleres y el cuaderno jupyter de las partes prácticas.
 - Clonar el repositorio con el comando *git clone https://github.com/lvillasen/Introduccion-a-la-Computacion-Cuantica.git*
 - Para la parte práctica copiar el cuaderno de jupyter a Google Drive
 - Entrar a la página de Google Drive con un explorador y abrir el archivo en Google Colab
