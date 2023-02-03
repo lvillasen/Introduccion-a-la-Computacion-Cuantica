@@ -4,9 +4,8 @@ Se presenta una introducción práctica a la Computación Cuántica usando el SD
 Este reposiorio contiene tres tálleres impartidos en el Centro Interdisciplinario de Investigación y Enseñanza de la Ciencia (CIIEC) de la Benemérita Universidad Autónoma de Puebla, en Puebla México.
 
 El Contenido es el siguiente:
-```   
-
-                       **Primer Taller**
+**Primer Taller**
+```                       
   1. Introducción a la Mecánica Cuántica
   1.1 Superposición de Estados Cuánticos
   1.2 Entrelazamiento Cuántico
@@ -35,8 +34,9 @@ El Contenido es el siguiente:
   Machine Learning con Computación Cuántica
 ```  
 ### El video del primer taller se puede ver en https://www.facebook.com/CiiecBuap/videos/698380658240902
-```   
-                      **Segundo Taller**
+ 
+**Segundo Taller**
+ ```  
   6. Desigualdad de Bell
   7. Repaso del Primer Taller
   8. Uso de una Computadora Cuántica Real de IBM Quantum Experience
