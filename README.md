@@ -4,6 +4,7 @@ Se presenta una introducción práctica a la Computación Cuántica usando el SD
 Este reposiorio contiene tres tálleres impartidos en el Centro Interdisciplinario de Investigación y Enseñanza de la Ciencia (CIIEC) de la Benemérita Universidad Autónoma de Puebla, en Puebla México.
 
 El Contenido es el siguiente:
+
 **Primer Taller**
 ```                       
   1. Introducción a la Mecánica Cuántica
