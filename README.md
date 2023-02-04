@@ -47,7 +47,7 @@ El Contenido es el siguiente:
     9.1 Algoritmo Extendido de Euclides
     9.2 Exponenciación Modular
     9.3 Un Ejemplo de Encriptación RSA
-    9.4  Pequeño Teorema de Fermat
+    9.4 Pequeño Teorema de Fermat
     9.5 Sustento Matemático de la Encriptación RSA
   10. Algoritmo de Shor (Peter Shor, 1994)
     10.1 Cálculo del Periodo usando Computación Clásica
