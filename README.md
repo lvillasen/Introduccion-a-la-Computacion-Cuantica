@@ -1,7 +1,7 @@
 # Introducción a la Computación Cuántica
 Se presenta una introducción práctica a la Computación Cuántica usando el SDK Qiskit desarrollado por IBM en Python. 
 
-Este reposiorio contiene dos tálleres impartidos en el Centro Interdisciplinario de Investigación y Enseñanza de la Ciencia (CIIEC) de la Benemérita Universidad Autónoma de Puebla, en Puebla México. Se planea incluir un tercer taller sobre Machine Clásica y Machine Learning Cuántica.
+Este reposiorio contiene dos tálleres impartidos en el Centro Interdisciplinario de Investigación y Enseñanza de la Ciencia (CIIEC) de la Benemérita Universidad Autónoma de Puebla, en Puebla México. Se planea incluirá un tercer taller sobre Machine Learning Clásica y Machine Learning Cuántica.
 
 El Contenido es el siguiente:
 
