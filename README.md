@@ -61,7 +61,17 @@ El Contenido es el siguiente:
 ### El video del segundo taller se puede ver en https://www.facebook.com/CiiecBuap/videos/584485863150717
 
 **Tercer Taller**
-
+ ```  
+13. Repaso de Machine Learning Clásico
+  13.1 Aprendizaje Supervisado
+  13.2 Aprendizaje no Supervisado
+14. Machine Learning Cuántico
+  14.1 Quantum Variational  Classifier (QVC)
+  14.2 Ejemplo de un QVC Construido desde Cero
+  14.3 QVC de Qiskit para Datos de Iris
+  14.4 Quantum-enhanced Support Vector Machine (QSVM)
+  14.5 Quantum Variational Eigensolver (QVE)
+```   
 
 ### El video del tercer taller se puede ver en https://www.facebook.com/CiiecBuap/videos/196664460036670/
 
