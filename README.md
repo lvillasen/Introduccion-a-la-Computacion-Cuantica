@@ -60,6 +60,12 @@ El Contenido es el siguiente:
 ```   
 ### El video del segundo taller se puede ver en https://www.facebook.com/CiiecBuap/videos/584485863150717
 
+**Tercer Taller**
+
+
+### El video del tercer taller se puede ver en https://www.facebook.com/CiiecBuap/videos/196664460036670/
+
+
 ## Uso
 - Este repositorio contiene el archivo PDF de las presentaciones de los dos talleres y el cuaderno jupyter de las partes prácticas.
 - Clonar el repositorio con el comando *git clone https://github.com/lvillasen/Introduccion-a-la-Computacion-Cuantica.git*
